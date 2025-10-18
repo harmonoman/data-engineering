@@ -1,0 +1,4 @@
+[INFO] 2025-10-15 09:10:01 - System boot sequence initiated.
+[INFO] 2025-10-15 09:10:05 - Network service started.
+[WARN] 2025-10-15 09:11:23 - Disk space is running low.
+[ERROR] 2025-10-15 09:12:00 - Failed to connect to database 'prod_db'.
